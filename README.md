@@ -1,4 +1,3 @@
-# OLF
+# OB_JECT AND OB_SERVE
 
-OLF Exhibition Fev 2016 
-
+Exhibition Fev 2016 at [A Small View Gallery](https://asmallviewproject.wordpress.com/)
